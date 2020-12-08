@@ -7,15 +7,15 @@ Time and effort are put into every config that is posted here. Please make sure 
 
 # INFORMATION
 
-Client: http://pulsive.wtf
+  Client: http://pulsive.wtf
 
-Client Discord: http://discord.pulsive.wtf
+  Client Discord: http://discord.pulsive.wtf
 
 Staff:
 
-Flashy (Client Developer): flashy#1234
-Gravik (Client Staff): Gravilk#6969
-Ligma (Repo owner + best config maker): ligma#1427
+  Flashy (Client Developer): flashy#1234
+  Gravik (Client Staff): Gravilk#6969
+  Ligma (Repo owner + best config maker): ligma#1427
 
 # HELP
 
