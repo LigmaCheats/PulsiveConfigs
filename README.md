@@ -13,9 +13,9 @@ Time and effort are put into every config that is posted here. Please make sure 
 
 Staff:
 
-  Flashy (Client Developer): flashy#1234
-  Gravik (Client Staff): Gravilk#6969
-  Ligma (Repo owner + best config maker): ligma#1427
+[Client owner] Flashy(flashy#1234)
+[Client Staff] Gravik(Gravilk#6969)
+[Repo creator] Ligma(ligma#1427)
 
 # HELP
 
