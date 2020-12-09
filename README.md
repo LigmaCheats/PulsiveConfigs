@@ -12,6 +12,8 @@ The way you use a config from here working on pulsive is as follows. First, crea
 # "Offical" configs
 
 Note that these are not offical configs for pulsive, they are just the best configs that I, ligma, see are bypassing the best! (They are the best to use if you want a bypassing up to date config!)
+**Please** create a GitHub issue if you think there is an error with an official config or you think a config needs to be adjusted!
+
 
 # INFORMATION
 
